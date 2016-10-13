@@ -178,8 +178,8 @@ int main(int argc, char** argv){
     
     // For debugging, uncomment to print matrices
     // C is your answer, D is the correct answer
-    // print_matrix(A, m,m);
-    // print_matrix(B, m,n);
-    // print_matrix(C, m,n);
-    // print_matrix(D, m,n);
+     print_matrix(A, m,m);
+     print_matrix(B, m,n);
+     print_matrix(C, m,n);
+     print_matrix(D, m,n);
 }
